@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ally-n/react-portfolio.git/static/css/main.aa4844af.chunk.css",
+    "main.js": "/ally-n/react-portfolio.git/static/js/main.4a68e78c.chunk.js",
+    "main.js.map": "/ally-n/react-portfolio.git/static/js/main.4a68e78c.chunk.js.map",
+    "runtime-main.js": "/ally-n/react-portfolio.git/static/js/runtime-main.3b852961.js",
+    "runtime-main.js.map": "/ally-n/react-portfolio.git/static/js/runtime-main.3b852961.js.map",
+    "static/css/2.6cd54866.chunk.css": "/ally-n/react-portfolio.git/static/css/2.6cd54866.chunk.css",
+    "static/js/2.85c58b0b.chunk.js": "/ally-n/react-portfolio.git/static/js/2.85c58b0b.chunk.js",
+    "static/js/2.85c58b0b.chunk.js.map": "/ally-n/react-portfolio.git/static/js/2.85c58b0b.chunk.js.map",
+    "index.html": "/ally-n/react-portfolio.git/index.html",
+    "static/css/2.6cd54866.chunk.css.map": "/ally-n/react-portfolio.git/static/css/2.6cd54866.chunk.css.map",
+    "static/css/main.aa4844af.chunk.css.map": "/ally-n/react-portfolio.git/static/css/main.aa4844af.chunk.css.map",
+    "static/js/2.85c58b0b.chunk.js.LICENSE.txt": "/ally-n/react-portfolio.git/static/js/2.85c58b0b.chunk.js.LICENSE.txt",
+    "static/media/1.b6fbd82b.png": "/ally-n/react-portfolio.git/static/media/1.b6fbd82b.png",
+    "static/media/2.b632069e.png": "/ally-n/react-portfolio.git/static/media/2.b632069e.png",
+    "static/media/3.a81f1ee3.png": "/ally-n/react-portfolio.git/static/media/3.a81f1ee3.png",
+    "static/media/4.ae99ec30.png": "/ally-n/react-portfolio.git/static/media/4.ae99ec30.png",
+    "static/media/5.1b0fc251.png": "/ally-n/react-portfolio.git/static/media/5.1b0fc251.png",
+    "static/media/6.cf49eb01.png": "/ally-n/react-portfolio.git/static/media/6.cf49eb01.png",
+    "static/media/ally.eb1f6360.png": "/ally-n/react-portfolio.git/static/media/ally.eb1f6360.png",
+    "static/media/connect.4e18422c.png": "/ally-n/react-portfolio.git/static/media/connect.4e18422c.png",
+    "static/media/experience.a7deac35.png": "/ally-n/react-portfolio.git/static/media/experience.a7deac35.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b852961.js",
+    "static/css/2.6cd54866.chunk.css",
+    "static/js/2.85c58b0b.chunk.js",
+    "static/css/main.aa4844af.chunk.css",
+    "static/js/main.4a68e78c.chunk.js"
+  ]
+}
