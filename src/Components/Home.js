@@ -10,7 +10,7 @@ export default function Home() {
             </div>
             <Navbar />
             <div className="home-image">
-                <img src={homeImage} alt="Hi- I'm Ally Nickell text with Ally Nickell" height="700px"></img>
+                <img src={homeImage} alt="Hi- I'm Ally Nickell" width="70%"></img>
             </div>
         </div>
     )
